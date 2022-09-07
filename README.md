@@ -9,6 +9,6 @@ Sources for datasets:
 
 steam charts - https://www.kaggle.com/datasets/josephvm/player-counts-on-steam
 
-steam info -  https://www.kaggle.com/datasets/sohamvishwasrao/steam-store-dataset?resource=download
+steam info -  https://www.kaggle.com/datasets/sohamvishwasrao/steam-store-dataset
 
-steamspy data - https://www.kaggle.com/datasets/vicentearce/steam-and-steam-spy-raw-datasets?select=steamspy_data.csv
+steamspy data - https://www.kaggle.com/datasets/vicentearce/steam-and-steam-spy-raw-datasets
